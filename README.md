@@ -42,5 +42,6 @@
 ## Contact Me
 - 📧 Email: diego@diegoalto.co.uk
 - 🌐 Website: [diegoalto.co.uk](https://www.diegoalto.co.uk)
-- 🐦 Twitter: [@diegoaltoworks](https://x.com/diegoaltoworks)
+- 👾 Github: [@diegoaltoworks](https://github.com/diegoaltoworks)
 - 💼 LinkedIn: [diegoworks](https://www.linkedin.com/in/diegoworks/)
+- 🐦 Twitter: [@diegoaltoworks](https://x.com/diegoaltoworks)
