@@ -1,12 +1,12 @@
-# Diego
-
 ## About Me
+
 - 🌍 Location: London 🇬🇧
 - 🗣️ Languages: English 🇬🇧 / Portuguese 🇧🇷
 - 💼 Occupation: Software Engineer
 - 🎓 Education: Advanced Diploma in Computer Science
 
 ## Skills
+
 - 💻 **Programming Languages:** [TypeScript](https://www.typescriptlang.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [SQL](https://www.w3schools.com/sql/)
 - 🏛️ **Architecture:** [Microservices](https://microservices.io/), [REST APIs](https://restfulapi.net/), [Event-Driven Architecture](https://aws.amazon.com/event-driven-architecture/)
 - 💡 **Technologies:** [Google Cloud](https://cloud.google.com/), [Azure](https://azure.microsoft.com/), [Terraform](https://www.terraform.io/)
@@ -15,6 +15,7 @@
 - 🪛 **Tools:** [GitHub](https://github.com/), [Docker](https://www.docker.com/), [Terraform](https://www.terraform.io/)
 
 ## Recent Projects
+
 - 🛠️ [Fyneworks](https://fyne.works/): Founder, inventor, CEO and chief nerd
 - 🎄 [Pines and Needles](https://www.pinesandneedles.com/): Christmas Tree Retail and Logistics
 - 🌹 [Only Roses](https://www.only-roses.com/): Luxury Gifting Retail
