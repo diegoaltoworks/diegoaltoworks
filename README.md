@@ -7,11 +7,14 @@
 
 ## Skills
 
-- 💻 **Programming Languages:** [TypeScript](https://www.typescriptlang.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [SQL](https://www.w3schools.com/sql/)
-- 🏛️ **Architecture:** [Microservices](https://microservices.io/), [REST APIs](https://restfulapi.net/), [Event-Driven Architecture](https://aws.amazon.com/event-driven-architecture/)
-- 💡 **Technologies:** [Google Cloud](https://cloud.google.com/), [Azure](https://azure.microsoft.com/), [Terraform](https://www.terraform.io/)
+- 💻 **Languages:** [TypeScript](https://www.typescriptlang.org/), [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [SQL](https://www.w3schools.com/sql/)
 - 🧰 **Frameworks:** [React](https://reactjs.org/), [Next.js](https://nextjs.org/), [Express](https://expressjs.com/)
-- 🖥️ **UI Frameworks:** [Material-UI](https://mui.com/), [Ant Design](https://ant.design/), [Bootstrap](https://getbootstrap.com/), [JQuery](https://jquery.com/)
+- 🌐 **API Design**: [REST](https://restfulapi.net/), [tRPC](https://trpc.io/)
+- 🖥️ **UI Design:** [Material UI](https://mui.com/), [Ant Design](https://ant.design/), [Bootstrap](https://getbootstrap.com/), [JQuery](https://jquery.com/)
+- 🏛️ **Architecture:** [Event-Driven](https://aws.amazon.com/event-driven-architecture/) [Microservices](https://microservices.io/), [BFFs](https://bff-patterns.com/)
+- 🗄️ **Databases**: [MSSQL](https://www.microsoft.com/en-us/sql-server), [SQLite](https://www.sqlite.org/), [Postgres](https://www.postgresql.org/), [MongoDB](https://www.mongodb.com/)
+- 🔗 **ORMs**: [Prisma](https://www.prisma.io/), [Drizzle](https://orm.drizzle.team/)
+- ☁️ **Clouds:** [Google Cloud](https://cloud.google.com/), [Azure](https://azure.microsoft.com/)
 - 🪛 **Tools:** [GitHub](https://github.com/), [Docker](https://www.docker.com/), [Terraform](https://www.terraform.io/)
 
 ## Recent Projects
